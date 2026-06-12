@@ -166,27 +166,27 @@ tezine: freq=0.35 zazor=0.25 parovi=0.2 talas=0.2
 
 Top 10 brojeva po skoru:
   39  skor=0.76260020  freq=0.5764  zazor=0.7368  par=0.8833  talas=1.0000
-  21  skor=0.64350500  freq=0.4167  zazor=1.0000  par=0.4129  talas=0.8255
+   x  skor=0.64350500  freq=0.4167  zazor=1.0000  par=0.4129  talas=0.8255
   08  skor=0.60203421  freq=1.0000  zazor=0.1579  par=0.2981  talas=0.7647
-  23  skor=0.60053367  freq=0.9653  zazor=0.1053  par=0.4194  talas=0.7625
+   y  skor=0.60053367  freq=0.9653  zazor=0.1053  par=0.4194  talas=0.7625
   35  skor=0.59969157  freq=0.5347  zazor=0.7895  par=0.3146  talas=0.7613
-  32  skor=0.54955121  freq=0.6319  zazor=0.2632  par=0.6251  talas=0.6878
+   z  skor=0.54955121  freq=0.6319  zazor=0.2632  par=0.6251  talas=0.6878
   29  skor=0.54096527  freq=0.5694  zazor=0.1579  par=0.8357  talas=0.6752
-  05  skor=0.52494147  freq=0.4306  zazor=0.3158  par=0.8248  talas=0.6517
+   x  skor=0.52494147  freq=0.4306  zazor=0.3158  par=0.8248  talas=0.6517
   34  skor=0.52179813  freq=0.7431  zazor=0.0000  par=0.6615  talas=0.6471
   33  skor=0.50974813  freq=0.6111  zazor=0.3684  par=0.3893  talas=0.6294
 
 Predlozene kombinacije (rangirane po skoru kombinacije):
-  01. 02 09 28 32 33 35 38  skor_komb=3.43822295
-  02. 03 05 06 07 23 26 32  skor_komb=3.40826456
-  03. 08 09 18 23 33 34 37  skor_komb=3.38499033
-  04. 05 15 16 26 32 34 39  skor_komb=3.34548158
-  05. 07 09 12 15 18 32 39  skor_komb=3.17816088
-  06. 03 04 05 08 16 25 29  skor_komb=3.12951834
-  07. 05 07 10 15 23 24 32  skor_komb=3.10498313
-  08. 07 08 13 21 24 30 37  skor_komb=3.04027312
-  09. 06 11 12 20 31 37 38  skor_komb=2.78450950
-  10. 07 09 12 14 15 32 37  skor_komb=2.74018023
+  01. 02 x 28 y 33 z 38  skor_komb=3.43822295
+  02. 03 x 06 y 23 z 32  skor_komb=3.40826456
+  03. 08 x 18 y 33 z 37  skor_komb=3.38499033
+  04. 05 x 16 y 32 z 39  skor_komb=3.34548158
+  05. 07 x 12 y 18 z 39  skor_komb=3.17816088
+  06. 03 x 05 y 16 z 29  skor_komb=3.12951834
+  07. 05 x 10 y 23 z 32  skor_komb=3.10498313
+  08. 07 x 13 y 24 z 37  skor_komb=3.04027312
+  09. 06 x 12 y 31 z 38  skor_komb=2.78450950
+  10. 07 x 12 y 15 z 37  skor_komb=2.74018023
 
 Sacuvano: /Tesla/tesla_interference_3C.txt
 """
