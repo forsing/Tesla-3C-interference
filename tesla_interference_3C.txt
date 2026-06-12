@@ -5,23 +5,23 @@ tezine: freq=0.35 zazor=0.25 parovi=0.2 talas=0.2
 
 Brojevi po skoru (talasno polje verovatnoce):
   39  skor=0.76260020  freq=0.5764  zazor=0.7368  par=0.8833  talas=1.0000  verovatnoca=0.048990
-  21  skor=0.64350500  freq=0.4167  zazor=1.0000  par=0.4129  talas=0.8255  verovatnoca=0.041339
+   x  skor=0.64350500  freq=0.4167  zazor=1.0000  par=0.4129  talas=0.8255  verovatnoca=0.041339
   08  skor=0.60203421  freq=1.0000  zazor=0.1579  par=0.2981  talas=0.7647  verovatnoca=0.038675
-  23  skor=0.60053367  freq=0.9653  zazor=0.1053  par=0.4194  talas=0.7625  verovatnoca=0.038579
+   y  skor=0.60053367  freq=0.9653  zazor=0.1053  par=0.4194  talas=0.7625  verovatnoca=0.038579
   35  skor=0.59969157  freq=0.5347  zazor=0.7895  par=0.3146  talas=0.7613  verovatnoca=0.038525
-  32  skor=0.54955121  freq=0.6319  zazor=0.2632  par=0.6251  talas=0.6878  verovatnoca=0.035304
+   z  skor=0.54955121  freq=0.6319  zazor=0.2632  par=0.6251  talas=0.6878  verovatnoca=0.035304
   29  skor=0.54096527  freq=0.5694  zazor=0.1579  par=0.8357  talas=0.6752  verovatnoca=0.034752
-  05  skor=0.52494147  freq=0.4306  zazor=0.3158  par=0.8248  talas=0.6517  verovatnoca=0.033723
+   x  skor=0.52494147  freq=0.4306  zazor=0.3158  par=0.8248  talas=0.6517  verovatnoca=0.033723
   34  skor=0.52179813  freq=0.7431  zazor=0.0000  par=0.6615  talas=0.6471  verovatnoca=0.033521
-  33  skor=0.50974813  freq=0.6111  zazor=0.3684  par=0.3893  talas=0.6294  verovatnoca=0.032747
+   y  skor=0.50974813  freq=0.6111  zazor=0.3684  par=0.3893  talas=0.6294  verovatnoca=0.032747
   38  skor=0.50643673  freq=0.5278  zazor=0.3684  par=0.5235  talas=0.6246  verovatnoca=0.032534
-  25  skor=0.49497268  freq=0.5069  zazor=0.2632  par=0.6510  talas=0.6078  verovatnoca=0.031797
+   z  skor=0.49497268  freq=0.5069  zazor=0.2632  par=0.6510  talas=0.6078  verovatnoca=0.031797
   12  skor=0.49323879  freq=0.3056  zazor=0.5789  par=0.6025  talas=0.6052  verovatnoca=0.031686
-  26  skor=0.47737528  freq=0.7153  zazor=0.1053  par=0.4216  talas=0.5820  verovatnoca=0.030667
+   x  skor=0.47737528  freq=0.7153  zazor=0.1053  par=0.4216  talas=0.5820  verovatnoca=0.030667
   28  skor=0.47126059  freq=0.3750  zazor=0.1579  par=0.9296  talas=0.5730  verovatnoca=0.030274
-  07  skor=0.46244488  freq=0.5278  zazor=0.5263  par=0.1706  talas=0.5601  verovatnoca=0.029708
+   y  skor=0.46244488  freq=0.5278  zazor=0.5263  par=0.1706  talas=0.5601  verovatnoca=0.029708
   06  skor=0.44018572  freq=0.3472  zazor=0.0526  par=1.0000  talas=0.5275  verovatnoca=0.028278
-  02  skor=0.42733428  freq=0.4028  zazor=0.1053  par=0.7916  talas=0.5087  verovatnoca=0.027452
+   z  skor=0.42733428  freq=0.4028  zazor=0.1053  par=0.7916  talas=0.5087  verovatnoca=0.027452
   31  skor=0.42517356  freq=0.4444  zazor=0.1053  par=0.7110  talas=0.5055  verovatnoca=0.027313
   37  skor=0.42465015  freq=0.6528  zazor=0.0526  par=0.4104  talas=0.5047  verovatnoca=0.027280
   11  skor=0.39431529  freq=0.6528  zazor=0.0526  par=0.3031  talas=0.4603  verovatnoca=0.025331
@@ -45,16 +45,16 @@ Brojevi po skoru (talasno polje verovatnoce):
   17  skor=0.08024118  freq=0.0000  zazor=0.0000  par=0.4012  talas=0.0000  verovatnoca=0.005155
 
 Predlozene kombinacije (rangirane po skoru kombinacije):
-  01. 02 09 28 32 33 35 38  skor_komb=3.43822295
-  02. 03 05 06 07 23 26 32  skor_komb=3.40826456
-  03. 08 09 18 23 33 34 37  skor_komb=3.38499033
-  04. 05 15 16 26 32 34 39  skor_komb=3.34548158
-  05. 07 09 12 15 18 32 39  skor_komb=3.17816088
-  06. 03 04 05 08 16 25 29  skor_komb=3.12951834
-  07. 05 07 10 15 23 24 32  skor_komb=3.10498313
-  08. 07 08 13 21 24 30 37  skor_komb=3.04027312
-  09. 06 11 12 20 31 37 38  skor_komb=2.78450950
-  10. 07 09 12 14 15 32 37  skor_komb=2.74018023
+  01. 02 x 28 y 33 z 38  skor_komb=3.43822295
+  02. 03 x 06 y 23 z 32  skor_komb=3.40826456
+  03. 08 x 18 y 33 z 37  skor_komb=3.38499033
+  04. 05 x 16 y 32 z 39  skor_komb=3.34548158
+  05. 07 x 12 y 18 z 39  skor_komb=3.17816088
+  06. 03 x 05 y 16 z 29  skor_komb=3.12951834
+  07. 05 x 10 y 23 z 32  skor_komb=3.10498313
+  08. 07 x 13 y 24 z 37  skor_komb=3.04027312
+  09. 06 x 12 y 31 z 38  skor_komb=2.78450950
+  10. 07 x 12 y 15 z 37  skor_komb=2.74018023
 
 Slike polja/skora:
   PNG: /Tesla/tesla_interference_3C.png
